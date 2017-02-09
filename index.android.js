@@ -73,7 +73,7 @@ var ReactNativeSocialShare = React.createClass({
         </TouchableHighlight>
       </View>
 
-      
+
     );
   }
 });
